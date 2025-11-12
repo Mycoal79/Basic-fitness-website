@@ -1,2 +1,2 @@
 # Basic-fitness-website
-Fitness website I was working on in school, need to complete class section.
+Fitness website I was working on in school, need to complete class section. Used HTML + CSS
